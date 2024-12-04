@@ -2,7 +2,9 @@ import React, { useState } from "react";
 import PendulumCanvas from "./components/PendulumCanvas";
 import Controls from "./components/Controls";
 import Description from "./components/Description";
+import "./components/ParticleSimulator"
 import "./App.css";
+import ParticleSimulator from "./components/ParticleSimulator";
 
 function App() {
   const [gravity, setGravity] = useState(0.4);
