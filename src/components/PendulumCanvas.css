@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+    background: linear-gradient(135deg, #000428, #004e92);
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .App-header {
+    font-size: 24px;
+    font-family: "Arial", sans-serif;
+  }
+  
